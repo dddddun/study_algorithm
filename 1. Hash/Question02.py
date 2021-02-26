@@ -73,3 +73,4 @@ if __name__ == "__main__":
     if solution(phone_book):
         print("True")
     else:
+        print("False")
